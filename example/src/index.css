@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+.pell-editor-content {
+  width: 70%;
+  margin: 0px auto;
+  height: 200px;
+  border: 1px solid #ccc;
+  margin-top: 100px;
+}
